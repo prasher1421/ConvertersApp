@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Converters</string>
+    <string name ="select">SELECT ONE CONVERTER</string>
+    <string name="cc">Currency</string>
+    <string name="tc">Timezone</string>
+    <string name="uc">Unit</string>
+    <string name="selectc">Select Currency</string>
+    <string name="back">&lt;- Back</string><!--&lt; is for < lower than -->
+</resources>
